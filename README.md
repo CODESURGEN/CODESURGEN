@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and antennas
 - 🌱 I’m currently undergrad 3rd yr student
 - 💞️ I’m looking to collaborate on smart antennas
-- 📫 How to reach me via mail
+- 📫 Reach me via mail
 - ✉️ repalamanideep54@gmail.com
 
 <!---
