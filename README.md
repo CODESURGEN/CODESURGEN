@@ -1,7 +1,7 @@
 - 👋 Hi, I’m repala manideep
-- 👀 I’m interested in data science and antennas
-- 🌱 I’m currently undergrad 3rd yr student
-- 💞️ I’m looking to collaborate on smart antennas
+- 👀 I’m interested in data science
+- 🌱 I’m currently undergrad 4rd yr student
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 Reach me via mail
 - ✉️ repalamanideep73@gmail.com
 
